@@ -59,20 +59,19 @@ Code:</br>
 
 ## Features
 List of features ready and TODOs for future development
-* Weather in any place, country, time
-* 100% correct
-* Responsive
+* Series details
+* All series at one place
+* Fast
 
 To-do list:
-* Add forecast for next 5 days or more
-* Add hourly forecast
+* Add more details
 
 ## Status
 Project is: _finished_
 
 ## Inspiration
-First react project. Started to learn react.
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+First react project. Started to learn react.</br>
+Credits: [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 ## Contact
 Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
