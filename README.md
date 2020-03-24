@@ -20,7 +20,7 @@ This app is made with react and node.js. You can search for any series that you 
 ## Technologies
 * [React](https://reactjs.org/docs/getting-started.html) - version 16.13.1
 * [Node.js](https://nodejs.org/en/docs/) - version 13
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - version 4
+* [CSS](https://devdocs.io/css/) - version 3
 * [React-dom](https://github.com/facebook/react) - version 16.13.1
 
 ## Setup
@@ -48,14 +48,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
 Code:</br>
-return (
-    <div className="App">
-      <header className="App-header">
-        <h1 className="App-title">TV Shows List </h1>
-      </header>
-      <Main/>
-    </div>
-  );
+`return (`
+    `<div className="App">`
+      `<header className="App-header">`
+        `<h1 className="App-title">TV Shows List </h1>`
+      `</header>`
+     ` <Main/>`
+   ` </div>`
+ ` );`
 
 ## Features
 List of features ready and TODOs for future development
