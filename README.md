@@ -15,7 +15,7 @@
 This app is made with react and node.js. You can search for any series that you want. See all info, title, image, relase date, etc.. 
 
 ## Screenshots
-![](https://github.com/MarkoVitkovic/RESTful_APIs_react-weather-app/blob/master/web.png)
+![](https://github.com/MarkoVitkovic/react-tv_shows_list/blob/master/list.png)
 
 ## Technologies
 * [React](https://reactjs.org/docs/getting-started.html) - version 16.13.1
@@ -48,13 +48,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
 Code:</br>
-`if(city && country){`</br>
-      `const api_call= await fetch(https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_key})`</br>
-      `const res = await api_call.json();`</br>
-      `console.log(res);`</br>
-      `this.setState({`</br>
-        `city: ${res.name}, ${res.sys.country},`</br>
-        `celsius:this.calcCels(res.main.temp)`</br>
+return (
+    <div className="App">
+      <header className="App-header">
+        <h1 className="App-title">TV Shows List </h1>
+      </header>
+      <Main/>
+    </div>
+  );
 
 ## Features
 List of features ready and TODOs for future development
