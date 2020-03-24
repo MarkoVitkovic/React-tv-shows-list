@@ -1,5 +1,5 @@
-# Weather App
-> RESTful API made with react. Weather application
+# TV Show
+> RESTful API made with react. tv show list, all shows in one place.
 
 ## Table of contents
 * [General info](#general-info)
