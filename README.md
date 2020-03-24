@@ -12,8 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-This app is made with react and node.js. For this app I use [OpenWeather](https://openweathermap.org/api).</br>
-Feel free to clone or download.
+This app is made with react and node.js. You can search for any series that you want. See all info, title, image, relase date, etc.. 
 
 ## Screenshots
 ![](https://github.com/MarkoVitkovic/RESTful_APIs_react-weather-app/blob/master/web.png)
